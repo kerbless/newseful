@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/0a5f0390-6d4e-4269-8090-9510b8fb2982/deploy-status)](https://app.netlify.com/sites/newseful/deploys)
+
 # newseful
 DBMA's project for Terranova
 
