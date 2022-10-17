@@ -5,6 +5,7 @@ DBMA's project for Terranova
 
 # tools
 [GanttLab](https://app.ganttlab.com/)
+[Netlify](https://app.netlify.com)
 
 # rolodex
 @kerbless Back-end API
