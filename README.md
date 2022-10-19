@@ -3,14 +3,14 @@
 # newseful
 DBMA's project for Terranova
 
-# tools
-[GanttLab](https://app.ganttlab.com/)
-[Netlify](https://app.netlify.com)
-https://vercel.com/dashboard
-https://www.cyclic.sh/
-https://supabase.com/
+## Strumenti
+- [GanttLab](https://app.ganttlab.com/)
+- [Netlify](https://app.netlify.com)
+- [vercel](https://vercel.com/dashboard)
+- [cyclic](https://www.cyclic.sh/)
+- [supabase](https://supabase.com/)
 
-# rolodex
-@kerbless Back-end API
-@marcoone Back-end User features
-@... Front-end
+## rolodex
+- @kerbless Back-end API
+- @marcoone Back-end User features
+- @Junjuji Front-end
