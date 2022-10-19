@@ -1,6 +1,6 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/0a5f0390-6d4e-4269-8090-9510b8fb2982/deploy-status)](https://app.netlify.com/sites/newseful/deploys)
 
-# newseful
+# Newseful
 DBMA's project for Terranova
 
 ## Strumenti
@@ -10,7 +10,7 @@ DBMA's project for Terranova
 - [Cyclic](https://www.cyclic.sh/)
 - [Supabase](https://supabase.com/)
 
-## rolodex
+## DBMA's Team (Rolodex)
 - @Kawika13 Project manager
 - @kerbless Back-end API
 - @marcoone Back-end User features
