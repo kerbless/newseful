@@ -6,11 +6,12 @@ DBMA's project for Terranova
 ## Strumenti
 - [GanttLab](https://app.ganttlab.com/)
 - [Netlify](https://app.netlify.com)
-- [vercel](https://vercel.com/dashboard)
-- [cyclic](https://www.cyclic.sh/)
-- [supabase](https://supabase.com/)
+- [Vercel](https://vercel.com/dashboard)
+- [Cyclic](https://www.cyclic.sh/)
+- [Supabase](https://supabase.com/)
 
 ## rolodex
+- @Kawika13 Project manager
 - @kerbless Back-end API
 - @marcoone Back-end User features
 - @Junjuji Front-end
