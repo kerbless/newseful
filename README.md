@@ -12,6 +12,6 @@ DBMA's project for Terranova
 
 ## DBMA's Team (Rolodex)
 - @Kawika13 Project manager
-- @kerbless Back-end API
-- @marcoone Back-end User features
+- @kerbless Back-end User-features
+- @marcoone Back-end API
 - @Junjuji Front-end
