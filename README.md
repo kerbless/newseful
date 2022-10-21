@@ -3,6 +3,9 @@
 # Newseful
 DBMA's project for Terranova
 
+## Scrum
+- Ogni milestone (sprint) ha la durata di 2 settimane
+
 ## Strumenti
 - [GanttLab](https://app.ganttlab.com/)
 - [Netlify](https://app.netlify.com)
