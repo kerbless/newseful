@@ -12,9 +12,22 @@ DBMA's project for Terranova
 - @marcoone Back-end API
 - @Junjuji Front-end
 
-## Stack & Tools
-- [GanttLab](https://app.ganttlab.com/)
+## Stack & Tools (Work in progress)
+
+### Front-End
+- [Tailwind](https://tailwindcss.com/)
+
+### Back-End
+- [Node](https://nodejs.org/en/)
+- [Next](https://nextjs.org/)
+- [Supabase](https://supabase.com/)
+
+### Production
 - [Netlify](https://app.netlify.com)
 - [Vercel](https://vercel.com/dashboard)
 - [Cyclic](https://www.cyclic.sh/)
-- [Supabase](https://supabase.com/)
+
+### Tools
+- [GanttLab](https://app.ganttlab.com/)
+
+
