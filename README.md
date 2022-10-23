@@ -26,6 +26,7 @@ DBMA's project for Terranova
 - [Netlify](https://app.netlify.com)
 - [Vercel](https://vercel.com/dashboard)
 - [Cyclic](https://www.cyclic.sh/)
+- [Deepsource](https://deepsource.io)
 
 ### Tools
 - [GanttLab](https://app.ganttlab.com/)
