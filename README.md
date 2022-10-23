@@ -3,18 +3,18 @@
 # Newseful
 DBMA's project for Terranova
 
-## Scrum
+## Scrum workflow
 - Ogni milestone (sprint) ha la durata di 2 settimane
-
-## Strumenti
-- [GanttLab](https://app.ganttlab.com/)
-- [Netlify](https://app.netlify.com)
-- [Vercel](https://vercel.com/dashboard)
-- [Cyclic](https://www.cyclic.sh/)
-- [Supabase](https://supabase.com/)
 
 ## DBMA's Team (Rolodex)
 - @Kawika13 Project manager
 - @kerbless Back-end User-features
 - @marcoone Back-end API
 - @Junjuji Front-end
+
+## Stack & Tools
+- [GanttLab](https://app.ganttlab.com/)
+- [Netlify](https://app.netlify.com)
+- [Vercel](https://vercel.com/dashboard)
+- [Cyclic](https://www.cyclic.sh/)
+- [Supabase](https://supabase.com/)
