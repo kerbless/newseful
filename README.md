@@ -34,4 +34,7 @@ DBMA's project for Terranova
 ### Tools
 - [GanttLab](https://app.ganttlab.com/)
 
+## Resources
+https://www.youtube.com/c/Fireship
+
 
