@@ -10,10 +10,10 @@ DBMA's project for Terranova
 
 
 ## DBMA's Team (Rolodex)
-- @Kawika13 Project manager e scrum master
-- @kerbless Back-end user-features e production environment
-- @marcoone Back-end API
-- @Junjuji Front-end
+- @Kawika13 (Davide Miraglia) Project manager e scrum master
+- @kerbless (Blu Burroni) Back-end user-features e production environment
+- @marcoone (Marco Lastretti) Back-end API
+- @Junjuji (Alejandro Fioravanti) Front-end
 
 ## Stack & Tools (Work in progress)
 
