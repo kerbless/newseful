@@ -6,7 +6,7 @@ DBMA's project for Terranova
 ## Agile workflow (Scrum)
 - Sprint (Milestone) ogni due settimane definito dallo scrum master (@Kawika13)
 - Sprint review/retrospective con stessa frequenza e un giorno prima della scadenza dello sprint.
-- Stand-up meetings un ora a settimana in presenza minima e altri in base alle necessità.
+- Stand-up meetings un'ora a settimana in presenza minima e altri in base alle necessità.
 
 
 ## DBMA's Team (Rolodex)
