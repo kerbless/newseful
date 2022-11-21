@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+
+	<head>
+	<meta charset="UTF-8">
+	<title> index </title>
+	<link rel="stylesheet" href="css/stile.css">
+	<h1>Iscrizione</h1>
+	</head>
+
+	<body>
+		
+		<div>
+		
+			<form action="pag.php" method="post">
+			<label class="fissa"> Nome <input type="text" name="name"></label><br>
+			<label class="fissa">Cognome <input type="text" name="cognome"></label><br>
+			
+			<br>
+			
+			<label for="classi">Scegli una classe:</label>
+						  <br>
+						  <select name="classi" id="classi">
+							<option value="1">1A</option>
+							<option value="2">2A</option>
+							<option value="3">3A</option>			
+							<option value="4">4A</option>
+							<option value="5">5A</option>
+						  </select>
+						  
+			<br>
+			<br>
+			
+			<label for="religione">Religione</label>
+			<input type="checkbox" id="religione" name="religione" value="si">
+			<br>
+			
+			<p>Seleziona la lingua:</p>
+			  <input type="radio" id="inglese" name="lingua" value="inglese">
+			  <label class="radio" for="inglese">inglese</label><br>
+			  <input type="radio" id="spagnolo" name="lingua" value="spagnolo">
+			  <label class="radio" for="spagnolo">spagnolo</label><br>
+			  <input type="radio" id="francese" name="lingua" value="francese">
+			  <label class="radio" for="francese">francese</label>
+			
+			<br>
+			<br>  
+
+			<label for="classi">Scegli il voto di informatica:</label>
+			<br>  
+			<select name="voto" id="voto">  
+				<option value="1">1</option>
+				<option value="2">2</option>
+				<option value="3">3</option>
+				<option value="4">4</option>
+				<option value="5">5</option>
+				<option value="6">6</option>
+				<option value="7">7</option>
+				<option value="8">8</option>
+				<option value="9">9</option>
+				<option value="10">10</option>
+			 </select><br>   
+			  
+			<br>  
+			<br>
+			
+			<input type="submit">
+			</form>
+		</div>
+
+		
+		
+		<section></section>
+		
+		<footer></footer>
+	</body>
+
+</html>
