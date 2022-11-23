@@ -31,7 +31,7 @@ DBMA's project for Terranova
 - [Vercel](https://vercel.com/dashboard)
 
 ### Tools
-- [GanttLab](https://app.ganttlab.com/)
+- [ClickUp](https://app.clickup.com/), GANTT Charts
 
 ## Resources
 https://www.youtube.com/c/Fireship
