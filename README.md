@@ -1,4 +1,7 @@
+![GitHub issues](https://img.shields.io/github/issues-raw/kerbless/newseful?label=Tasks%20TODO&style=for-the-badge)
 ![GitHub closed issues](https://img.shields.io/github/issues-closed-raw/kerbless/newseful?color=green&label=Tasks%20completed&style=for-the-badge)
+![GitHub milestones](https://img.shields.io/github/milestones/closed/kerbless/newseful?color=49f&style=for-the-badge)
+
 [![Netlify Status](https://api.netlify.com/api/v1/badges/0a5f0390-6d4e-4269-8090-9510b8fb2982/deploy-status)](https://app.netlify.com/sites/newseful/deploys)
 
 # Newseful
